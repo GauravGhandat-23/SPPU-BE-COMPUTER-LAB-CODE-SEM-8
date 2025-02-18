@@ -27,13 +27,21 @@ Welcome to the repository for **SPPU BE Computer Semester 8 Lab Code**! This rep
 - **Description**: 
   - BFS and DFS are implemented on a tree or an undirected graph.
   - Parallelization is achieved using Python's `multiprocessing` module to distribute tasks across multiple processes.
-  
+
+| **OUTPUT** |
+|-----------------------------|
+|  ![HPC Practical 1 output](https://github.com/user-attachments/assets/3b45e7c9-0463-4dba-bf32-0ef9bca6712f) |
+
 ### 2. Parallel Bubble Sort and Merge Sort using Python Multiprocessing
 - **Objective**: Implement parallel versions of Bubble Sort and Merge Sort using Python's `multiprocessing`.
 - **Description**:
   - Compare the performance of sequential and parallel versions of the algorithms.
   - Measure execution time to analyze the speedup achieved through parallelization.
-  
+    
+| **OUTPUT** |
+|-----------------------------|
+| ![HPC Practical 2 output](https://github.com/user-attachments/assets/ce067406-edb3-4759-915f-4f202e9f4610) |  
+
 ### 3. Parallel Reduction for Min, Max, Sum, and Average
 - **Objective**: Perform parallel reduction operations for computing Min, Max, Sum, and Average.
 - **Description**:
@@ -46,12 +54,20 @@ Welcome to the repository for **SPPU BE Computer Semester 8 Lab Code**! This rep
 - **Description**:
   - Utilize GPU parallelism to add two large vectors.
   - Compare the performance with CPU-based implementation.
+
+| **OUTPUT** |
+|-----------------------------|
+| ![HPC Practical 3 output](https://github.com/user-attachments/assets/414af1bb-c893-4034-a0d0-a47c7b2bafb0) |  
   
 #### 4.2 Matrix Multiplication using CUDA Python
 - **Objective**: Implement matrix multiplication using CUDA Python (`numba.cuda`).
 - **Description**:
   - Leverage GPU threads to perform matrix multiplication in parallel.
   - Analyze the performance improvement over sequential matrix multiplication.
+
+| **OUTPUT** |
+|-----------------------------|
+| ![HPC Practical 4 output](https://github.com/user-attachments/assets/ec464c5c-5c9c-4406-8873-1e9193a77654) |  
 
 ---
 
