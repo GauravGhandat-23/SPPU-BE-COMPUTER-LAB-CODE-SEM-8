@@ -2,7 +2,7 @@
 
 ### 5 Emulate and manage a Data Center via a Cloud Network Controller: create a multi-rooted tree-like (Clos) topology in Mininet to emulate a data center. Implement specific SDN applications on top of the network controller in order to orchestrate multiple network tenants within a data center environment, in the context of network virtualization and management. Ref:https://opencourses.uoc.gr/courses/pluginfile.php/13576/mod_resource/content/2/exercise 5.pdf
 
-**# Stepwise Guide: Emulating and Managing a Data Center via a Cloud Network Controller**
+# Stepwise Guide: Emulating and Managing a Data Center via a Cloud Network Controller
 
 ## **Step 1: Install Required Software**
 Ensure you have the necessary dependencies installed:
