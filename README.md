@@ -1,6 +1,6 @@
 # 🚀 SPPU-BE-COMPUTER-LAB-CODE-SEM-8 🚀
 
-Welcome to the repository for **SPPU BE Computer Semester 8 Lab Code**! This repository contains Python-based implementations of lab exercises for two subjects: **High Performance Computing (HPC)** and **Deep Learning (DL)**. Below, you will find a detailed description of the topics covered in each subject along with small descriptions.
+Welcome to the repository for **SPPU BE Computer Semester 8 Lab Code**! This repository contains Python-based implementations of lab exercises for two subjects: **High Performance Computing (HPC)** , **Deep Learning (DL)** , **Software Defined Networks (SDN)** . Below, you will find a detailed description of the topics covered in each subject along with small descriptions.
 
 ---
 
@@ -18,6 +18,13 @@ Welcome to the repository for **SPPU BE Computer Semester 8 Lab Code**! This rep
    - [3. Convolutional Neural Network (CNN)](https://github.com/GauravGhandat-23/SPPU-BE-COMPUTER-LAB-CODE-SEM-8/tree/main/DL/DL%20PRACTICAL%203)
    - [4. Recurrent Neural Network (RNN)](https://github.com/GauravGhandat-23/SPPU-BE-COMPUTER-LAB-CODE-SEM-8/tree/main/DL/DL%20PRACTICAL%204)
 
+3. [Software Defined Networks (SDN)](https://github.com/GauravGhandat-23/SPPU-BE-COMPUTER-LAB-CODE-SEM-8/tree/main/SDN)
+   - [1. Mininet Network Emulation Environment Setup](https://github.com/GauravGhandat-23/SPPU-BE-COMPUTER-LAB-CODE-SEM-8/blob/main/SDN/ASSIGNMENT%20NO.%201.md)
+   - [2. OpenFlow Controllers: POX and Floodlight](https://github.com/GauravGhandat-23/SPPU-BE-COMPUTER-LAB-CODE-SEM-8/blob/main/SDN/ASSIGNMENT%20NO.%2002.md)
+   - [3. SDN Firewall Using Mininet and POX](https://github.com/GauravGhandat-23/SPPU-BE-COMPUTER-LAB-CODE-SEM-8/blob/main/SDN/ASSIGNMENT%20NO.%2003.md)
+   - [4. Mininet POX Router](https://github.com/GauravGhandat-23/SPPU-BE-COMPUTER-LAB-CODE-SEM-8/blob/main/SDN/ASSIGNMENT%20NO.%2004.md)
+   - [5. Emulating and Managing a Data Center via a Cloud Network Controller](https://github.com/GauravGhandat-23/SPPU-BE-COMPUTER-LAB-CODE-SEM-8/blob/main/SDN/ASSIGNMENT%20NO.%2005.md)
+   
 ---
 
 ## 🖥️ High Performance Computing (HPC)
@@ -139,3 +146,13 @@ Welcome to the repository for **SPPU BE Computer Semester 8 Lab Code**! This rep
 ---
 
 Happy Coding! 🚀
+
+
+
+
+
+
+
+
+
+
