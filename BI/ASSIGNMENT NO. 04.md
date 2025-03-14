@@ -8,7 +8,7 @@
 This project involves importing data from a data warehouse into Microsoft Excel and creating a Pivot Table and Pivot Chart for data analysis. The goal is to visualize and summarize key insights using Excel's pivot features.
 
 ## Video Demonstration
-You can watch the step-by-step video tutorial for this assignment here: 
+## You can watch the step-by-step video tutorial for this assignment here: 
 [![Watch the video](https://img.youtube.com/vi/2JXiR91OXVg/0.jpg)](https://youtu.be/pwApezf4AQA?si=us5KfqQ9V9q9ckPV)
 
 ## Features
