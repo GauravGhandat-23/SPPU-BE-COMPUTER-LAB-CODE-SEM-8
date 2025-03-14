@@ -1,6 +1,6 @@
 # 🚀 SPPU-BE-COMPUTER-LAB-CODE-SEM-8 🚀
 
-Welcome to the repository for **SPPU BE Computer Semester 8 Lab Code**! This repository contains Python-based implementations of lab exercises for two subjects: **High Performance Computing (HPC)** , **Deep Learning (DL)** , **Software Defined Networks (SDN)** . Below, you will find a detailed description of the topics covered in each subject along with small descriptions.
+Welcome to the repository for **SPPU BE Computer Semester 8 Lab Code**! This repository contains Python-based implementations of lab exercises for two subjects: **High Performance Computing (HPC)** , **Deep Learning (DL)** , **Software Defined Networks (SDN)** , **Business Intelligence (BI)** . Below, you will find a detailed description of the topics covered in each subject along with small descriptions.
 
 ---
 
