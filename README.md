@@ -24,7 +24,14 @@ Welcome to the repository for **SPPU BE Computer Semester 8 Lab Code**! This rep
    - [3. SDN Firewall Using Mininet and POX](https://github.com/GauravGhandat-23/SPPU-BE-COMPUTER-LAB-CODE-SEM-8/blob/main/SDN/ASSIGNMENT%20NO.%2003.md)
    - [4. Mininet POX Router](https://github.com/GauravGhandat-23/SPPU-BE-COMPUTER-LAB-CODE-SEM-8/blob/main/SDN/ASSIGNMENT%20NO.%2004.md)
    - [5. Emulating and Managing a Data Center via a Cloud Network Controller](https://github.com/GauravGhandat-23/SPPU-BE-COMPUTER-LAB-CODE-SEM-8/blob/main/SDN/ASSIGNMENT%20NO.%2005.md)
-   
+
+4. [Business Intelligence (BI)](https://github.com/GauravGhandat-23/SPPU-BE-COMPUTER-LAB-CODE-SEM-8/tree/main/BI)
+   - [1. Legacy Data Import and Load to Target System](https://github.com/GauravGhandat-23/SPPU-BE-COMPUTER-LAB-CODE-SEM-8/blob/main/BI/ASSIGNMENT%20NO.%2001.md)
+   - [2. ETL Process for Constructing a Database in SQL Server](https://github.com/GauravGhandat-23/SPPU-BE-COMPUTER-LAB-CODE-SEM-8/blob/main/BI/ASSIGNMENT%20NO.%2002.md)
+   - [3. Data Cube Implementation: ROLAP, MOLAP, and HOLAP](https://github.com/GauravGhandat-23/SPPU-BE-COMPUTER-LAB-CODE-SEM-8/blob/main/BI/ASSIGNMENT%20NO.%2003.md)
+   - [4. Data Warehouse Analysis with Microsoft Excel](https://github.com/GauravGhandat-23/SPPU-BE-COMPUTER-LAB-CODE-SEM-8/blob/main/BI/ASSIGNMENT%20NO.%2004.md)
+   - [5. Data Classification and Clustering Assignment](https://github.com/GauravGhandat-23/SPPU-BE-COMPUTER-LAB-CODE-SEM-8/blob/main/BI/ASSIGNMENT%20NO.%2005.md)
+
 ---
 
 ## 🖥️ High Performance Computing (HPC)
