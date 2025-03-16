@@ -61,17 +61,17 @@ Welcome to the repository for **SPPU BE Computer Semester 8 Lab Code**! This rep
 - **Description**:
   - Use Python's `multiprocessing` to perform parallel reduction on arrays.
   - Demonstrate how reduction operations can be efficiently parallelized.
-  
+
+| **OUTPUT** |
+|-----------------------------|
+| ![HPC Practical 3 output](https://github.com/user-attachments/assets/f496c07b-5cc0-435e-ad74-4e5b5cb2c641) |
+
 ### 4. CUDA Programs
 #### 4.1 Addition of Two Large Vectors
 - **Objective**: Implement vector addition for large vectors using CUDA Python (`numba.cuda`).
 - **Description**:
   - Utilize GPU parallelism to add two large vectors.
   - Compare the performance with CPU-based implementation.
-
-| **OUTPUT** |
-|-----------------------------|
-| ![HPC Practical 3 output](https://github.com/user-attachments/assets/414af1bb-c893-4034-a0d0-a47c7b2bafb0) |  
   
 #### 4.2 Matrix Multiplication using CUDA Python
 - **Objective**: Implement matrix multiplication using CUDA Python (`numba.cuda`).
